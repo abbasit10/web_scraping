@@ -1,1 +1,2 @@
-# web_scraping
+# Web Scraping
+Developed a web scraping script that automates the extraction of specific data from a website. The script begins by fetching the HTML content of a target webpage using an HTTP request. It then parses this content to locate and extract relevant information, such as titles, rankings, or ratings. Finally, the script organizes the extracted data and saves it to an external file, like an Excel spreadsheet, making it accessible for further analysis or reporting. This approach can be applied to various websites and datasets depending on the specific requirements.
